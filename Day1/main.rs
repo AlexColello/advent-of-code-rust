@@ -1,6 +1,4 @@
 fn main() {
-    println!("Hello World!");
-
     let args: Vec<String> = std::env::args().collect();
     let filename = &args[1];
 
