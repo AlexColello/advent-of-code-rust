@@ -1,4 +1,4 @@
-const PART: i32 = 1;
+const PART: u8 = 1;
 
 fn part1() {
     let result = 0;

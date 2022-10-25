@@ -23,7 +23,7 @@ fn part1() {
         previous = current;
     }
 
-    println!("Answer for part 2: {}", count);
+    println!("Answer for part 1: {}", count);
 }
 
 fn part2() {
